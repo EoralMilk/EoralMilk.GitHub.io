@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "none",
-        href: "none"
+        title: "Wanakiki's Blog",
+        href: "https://wanakiki.github.io/"
     },{
-        title: "none",
+        title: " ",
         href: "none"
     }
 ]
